@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+body{
+    margin:0;
+}
+header{
+width: 100%;
+}
+#topbars{
+display: flex;
+align-items: center; 
+justify-content: space-between;
+font-family : 'Poppins', sans-serif;
+}
+.spacing{
+padding-right: 90px;
+color: #8071d0;
+}
+.menu-item{
+padding-left: 28px;
+font-weight: bold;
+cursor: pointer;
+}
+.menu-item:hover{
+text-decoration: underline; 
+text-decoration-color: #fe5d20;
+}
+#button{
+margin-right: 78px;
+padding: 18px 20px 18px 20px; 
+background-color: B#ffd8db;
+color: #a389cc;
+border: lpx solid B#fff;
+
+border-radius: 24px; 
+cursor : pointer; 
+font-family: "Poppins", sans-serif;
+}
+#button:hover{
+box-shadow: 4px 4px 8px Dgray
+}
+#dot {
+    font-size:8px;
+    color:navy;
+}
+#home{
+font-size: 55px; 
+padding-left: 74px; 
+font-family: 'Poppins', sans-serif;
+}
+#para{
+padding-left: 74px; 
+color: D#6A6464; 
+font-family: 'Poppins', sans-serif;
+margin-top: 0%;
+}
+#nbutton{
+margin-left: 73px; 
+padding: 18px 20px 18px 20px; 
+background-color: #5243c0; 
+color: ■#fff;
+border:1px solid #fff;
+border-radius: 20px;
+cursor:pointer;
+font-family: 'Poppins', sans-serif;
+}
+#nbutton:hover{
+    box-shadow:4px 4px 8px gray;
+}
+#lsi{
+    position:relative;
+    left:580px;
+    bottom:700px;
+    width:70%;
+
+}
+.cards{
+    padding-left : lOpx; 
+    border: lpx solid ■ttfff;
+    border-radius: 20px; 
+    background-color: ■ »F7F2F2 ;
+    width: 280px; height: 60px; 
+    align-items: center; 
+    justify-content: space-between
+    }
+    #cardsec{
+    position: relative; 
+    padding-top: 37px; 
+    padding-left: 76px;
+    }
+    .cards :hover{
+    background-color: ■ white; 
+    cursor:pointer;
+    }
+    
+    
+
